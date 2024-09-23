@@ -1,0 +1,52 @@
+{
+        "city": {
+            "id": "",
+            "name":"" ,
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population":"" ,
+            "timezone": ""
+        },
+        "cod": "",
+        "message":"" ,
+        "cnt":"" ,
+        "list": [
+            {
+                "dt":"" ,
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day":"" ,
+                    "min": "",
+                    "max":0,
+                    "night": "",
+                    "eve":"" ,
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day":"" ,
+                    "night":"" ,
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure":"" ,
+                "humidity":"" ,
+                "weather": [
+                    {
+                        "id":"" ,
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed":"",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop":"" 
+            }
+        ]
+    }

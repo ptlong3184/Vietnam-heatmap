@@ -1,0 +1,3406 @@
+[
+    {
+        "city": {
+            "id": 1583992,
+            "name": "Turan",
+            "coord": {
+                "lon": 108.2208,
+                "lat": 16.0678
+            },
+            "country": "VN",
+            "population": 752493,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 0.1799345,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461540,
+                "sunset": 1682507044,
+                "temp": {
+                    "day": 29.45,
+                    "min": 24.25,
+                    "max": 29.99,
+                    "night": 24.94,
+                    "eve": 26.7,
+                    "morn": 24.25
+                },
+                "feels_like": {
+                    "day": 33.32,
+                    "night": 25.79,
+                    "eve": 29.09,
+                    "morn": 25.03
+                },
+                "pressure": 1013,
+                "humidity": 68,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 4.43,
+                "deg": 46,
+                "gust": 4.39,
+                "clouds": 48,
+                "pop": 1,
+                "rain": 1.43
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1594446,
+            "name": "An Giang",
+            "coord": {
+                "lon": 105.1667,
+                "lat": 10.5
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.7784719,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462613,
+                "sunset": 1682507437,
+                "temp": {
+                    "day": 33.23,
+                    "min": 27.5,
+                    "max": 35.16,
+                    "night": 29.11,
+                    "eve": 33.77,
+                    "morn": 27.5
+                },
+                "feels_like": {
+                    "day": 35.9,
+                    "night": 31.54,
+                    "eve": 36.08,
+                    "morn": 30.4
+                },
+                "pressure": 1010,
+                "humidity": 47,
+                "weather": [
+                    {
+                        "id": 501,
+                        "main": "Rain",
+                        "description": "moderate rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 4.77,
+                "deg": 116,
+                "gust": 7.91,
+                "clouds": 100,
+                "pop": 0.73,
+                "rain": 3.3
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1568574,
+            "name": "B\u00ecnh \u0110\u1ecbnh",
+            "coord": {
+                "lon": 109.1117,
+                "lat": 13.886
+            },
+            "country": "VN",
+            "population": 210338,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 6.2611057,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461462,
+                "sunset": 1682506695,
+                "temp": {
+                    "day": 31.47,
+                    "min": 24.04,
+                    "max": 31.48,
+                    "night": 24.04,
+                    "eve": 28.28,
+                    "morn": 24.87
+                },
+                "feels_like": {
+                    "day": 34.57,
+                    "night": 24.82,
+                    "eve": 30.79,
+                    "morn": 25.63
+                },
+                "pressure": 1012,
+                "humidity": 55,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 6.46,
+                "deg": 38,
+                "gust": 6.63,
+                "clouds": 74,
+                "pop": 0.36,
+                "rain": 0.11
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1587871,
+            "name": "Binh Duong",
+            "coord": {
+                "lon": 109.0797,
+                "lat": 14.2972
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 8.2327989,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461444,
+                "sunset": 1682506728,
+                "temp": {
+                    "day": 30.9,
+                    "min": 23.69,
+                    "max": 30.91,
+                    "night": 23.69,
+                    "eve": 27.86,
+                    "morn": 24.65
+                },
+                "feels_like": {
+                    "day": 33.93,
+                    "night": 24.46,
+                    "eve": 30.4,
+                    "morn": 25.39
+                },
+                "pressure": 1012,
+                "humidity": 57,
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 5.61,
+                "deg": 36,
+                "gust": 6.39,
+                "clouds": 81,
+                "pop": 0.39
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1591474,
+            "name": "B\u1ea1c Li\u00eau",
+            "coord": {
+                "lon": 105.7261,
+                "lat": 9.2825
+            },
+            "country": "VN",
+            "population": 107911,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 8.6740596,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462551,
+                "sunset": 1682507231,
+                "temp": {
+                    "day": 31.6,
+                    "min": 28.08,
+                    "max": 32.02,
+                    "night": 28.83,
+                    "eve": 30.65,
+                    "morn": 28.08
+                },
+                "feels_like": {
+                    "day": 34.83,
+                    "night": 32.72,
+                    "eve": 34.12,
+                    "morn": 31.83
+                },
+                "pressure": 1010,
+                "humidity": 55,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 7.95,
+                "deg": 103,
+                "gust": 9.24,
+                "clouds": 100,
+                "pop": 0.35,
+                "rain": 0.88
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1591527,
+            "name": "B\u1eafc Giang",
+            "coord": {
+                "lon": 106.1939,
+                "lat": 21.2779
+            },
+            "country": "VN",
+            "population": 53728,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.8038799,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461688,
+                "sunset": 1682507869,
+                "temp": {
+                    "day": 23.81,
+                    "min": 19.96,
+                    "max": 26.76,
+                    "night": 20.78,
+                    "eve": 26.4,
+                    "morn": 20.01
+                },
+                "feels_like": {
+                    "day": 23.84,
+                    "night": 20.87,
+                    "eve": 26.4,
+                    "morn": 20
+                },
+                "pressure": 1016,
+                "humidity": 61,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 3.65,
+                "deg": 158,
+                "gust": 7.59,
+                "clouds": 100,
+                "pop": 0.01
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1591538,
+            "name": "B\u1eafc K\u1ea1n",
+            "coord": {
+                "lon": 105.8372,
+                "lat": 22.1495
+            },
+            "country": "VN",
+            "population": 17701,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.744502,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461715,
+                "sunset": 1682508014,
+                "temp": {
+                    "day": 21.94,
+                    "min": 18.61,
+                    "max": 27.05,
+                    "night": 20.51,
+                    "eve": 25.96,
+                    "morn": 18.61
+                },
+                "feels_like": {
+                    "day": 21.94,
+                    "night": 20.78,
+                    "eve": 25.96,
+                    "morn": 18.8
+                },
+                "pressure": 1016,
+                "humidity": 67,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 1.63,
+                "deg": 164,
+                "gust": 2.53,
+                "clouds": 100,
+                "pop": 0
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1591449,
+            "name": "Bac Ninh",
+            "coord": {
+                "lon": 106.05,
+                "lat": 21.1833
+            },
+            "country": "VN",
+            "population": 43564,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 0.0626276,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461729,
+                "sunset": 1682507897,
+                "temp": {
+                    "day": 23.7,
+                    "min": 19.89,
+                    "max": 25.66,
+                    "night": 20.78,
+                    "eve": 25.52,
+                    "morn": 19.96
+                },
+                "feels_like": {
+                    "day": 23.88,
+                    "night": 20.95,
+                    "eve": 25.69,
+                    "morn": 20.05
+                },
+                "pressure": 1016,
+                "humidity": 67,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 3.75,
+                "deg": 161,
+                "gust": 8.15,
+                "clouds": 100,
+                "pop": 0.06
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1587976,
+            "name": "Ben Tre",
+            "coord": {
+                "lon": 106.3735,
+                "lat": 10.2448
+            },
+            "country": "VN",
+            "population": 59442,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.6062716,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462339,
+                "sunset": 1682507132,
+                "temp": {
+                    "day": 33.44,
+                    "min": 26.37,
+                    "max": 35.18,
+                    "night": 27.82,
+                    "eve": 32.12,
+                    "morn": 26.49
+                },
+                "feels_like": {
+                    "day": 36.3,
+                    "night": 30.96,
+                    "eve": 34.34,
+                    "morn": 26.49
+                },
+                "pressure": 1010,
+                "humidity": 47,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.15,
+                "deg": 98,
+                "gust": 9.74,
+                "clouds": 99,
+                "pop": 0.28,
+                "rain": 0.56
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1586443,
+            "name": "Ca Mau",
+            "coord": {
+                "lon": 105.1458,
+                "lat": 9.1792
+            },
+            "country": "VN",
+            "population": 111894,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 14.6405808,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462696,
+                "sunset": 1682507364,
+                "temp": {
+                    "day": 33.4,
+                    "min": 26.8,
+                    "max": 33.98,
+                    "night": 28.08,
+                    "eve": 31.78,
+                    "morn": 26.8
+                },
+                "feels_like": {
+                    "day": 36.51,
+                    "night": 31.53,
+                    "eve": 34.44,
+                    "morn": 29.22
+                },
+                "pressure": 1010,
+                "humidity": 48,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.99,
+                "deg": 103,
+                "gust": 8.79,
+                "clouds": 99,
+                "pop": 0.59,
+                "rain": 3
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1586185,
+            "name": "Cao B\u1eb1ng",
+            "coord": {
+                "lon": 106.2588,
+                "lat": 22.6667
+            },
+            "country": "VN",
+            "population": 41112,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 9.9285462,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461578,
+                "sunset": 1682507948,
+                "temp": {
+                    "day": 23.71,
+                    "min": 19.39,
+                    "max": 27.77,
+                    "night": 21.52,
+                    "eve": 26.66,
+                    "morn": 19.39
+                },
+                "feels_like": {
+                    "day": 23.6,
+                    "night": 21.74,
+                    "eve": 26.66,
+                    "morn": 19.19
+                },
+                "pressure": 1016,
+                "humidity": 56,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 2.83,
+                "deg": 155,
+                "gust": 4.74,
+                "clouds": 90,
+                "pop": 0
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1586203,
+            "name": "Can Tho",
+            "coord": {
+                "lon": 105.7833,
+                "lat": 10.0333
+            },
+            "country": "VN",
+            "population": 259598,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.9877832,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462493,
+                "sunset": 1682507262,
+                "temp": {
+                    "day": 32.56,
+                    "min": 26.46,
+                    "max": 36.11,
+                    "night": 27.89,
+                    "eve": 33.42,
+                    "morn": 26.46
+                },
+                "feels_like": {
+                    "day": 36.83,
+                    "night": 30.84,
+                    "eve": 35.19,
+                    "morn": 26.46
+                },
+                "pressure": 1010,
+                "humidity": 55,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.57,
+                "deg": 126,
+                "gust": 9.64,
+                "clouds": 36,
+                "pop": 0.62,
+                "rain": 0.93
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1581088,
+            "name": "Gia Lai",
+            "coord": {
+                "lon": 108.25,
+                "lat": 13.75
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.4243852,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461677,
+                "sunset": 1682506893,
+                "temp": {
+                    "day": 31.46,
+                    "min": 19.6,
+                    "max": 33.17,
+                    "night": 20.93,
+                    "eve": 29.23,
+                    "morn": 19.6
+                },
+                "feels_like": {
+                    "day": 31.68,
+                    "night": 21.38,
+                    "eve": 30.09,
+                    "morn": 20.04
+                },
+                "pressure": 1012,
+                "humidity": 41,
+                "weather": [
+                    {
+                        "id": 803,
+                        "main": "Clouds",
+                        "description": "broken clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 5.4,
+                "deg": 79,
+                "gust": 10.31,
+                "clouds": 75,
+                "pop": 0.16
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1581349,
+            "name": "Ha Giang",
+            "coord": {
+                "lon": 104.9866,
+                "lat": 22.8274
+            },
+            "country": "VN",
+            "population": 32690,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 6.1211701,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461872,
+                "sunset": 1682508265,
+                "temp": {
+                    "day": 26.88,
+                    "min": 20.3,
+                    "max": 28.69,
+                    "night": 20.98,
+                    "eve": 27.07,
+                    "morn": 20.39
+                },
+                "feels_like": {
+                    "day": 27.61,
+                    "night": 21.48,
+                    "eve": 28.56,
+                    "morn": 20.65
+                },
+                "pressure": 1016,
+                "humidity": 55,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 2.55,
+                "deg": 164,
+                "gust": 3.56,
+                "clouds": 97,
+                "pop": 0.01
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1581130,
+            "name": "Hanoi",
+            "coord": {
+                "lon": 105.8412,
+                "lat": 21.0245
+            },
+            "country": "VN",
+            "population": 1431270,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 0.1207343,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461790,
+                "sunset": 1682507937,
+                "temp": {
+                    "day": 23.64,
+                    "min": 19.69,
+                    "max": 24.88,
+                    "night": 21.09,
+                    "eve": 23.89,
+                    "morn": 19.89
+                },
+                "feels_like": {
+                    "day": 23.94,
+                    "night": 21.29,
+                    "eve": 24.01,
+                    "morn": 20.05
+                },
+                "pressure": 1016,
+                "humidity": 72,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 3.79,
+                "deg": 156,
+                "gust": 8.52,
+                "clouds": 100,
+                "pop": 0.15
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1562822,
+            "name": "H\u00e0 Nam",
+            "coord": {
+                "lon": 107.7706,
+                "lat": 16.3358
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 13.4273684,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461631,
+                "sunset": 1682507169,
+                "temp": {
+                    "day": 28.35,
+                    "min": 23.06,
+                    "max": 28.45,
+                    "night": 23.52,
+                    "eve": 27.19,
+                    "morn": 23.06
+                },
+                "feels_like": {
+                    "day": 32.82,
+                    "night": 24.41,
+                    "eve": 29.96,
+                    "morn": 23.9
+                },
+                "pressure": 1014,
+                "humidity": 79,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.97,
+                "deg": 43,
+                "gust": 3.13,
+                "clouds": 46,
+                "pop": 0.8,
+                "rain": 1.75
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1581047,
+            "name": "H\u00e0 T\u0129nh",
+            "coord": {
+                "lon": 105.9019,
+                "lat": 18.3453
+            },
+            "country": "VN",
+            "population": 27728,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 6.5622283,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461951,
+                "sunset": 1682507746,
+                "temp": {
+                    "day": 22.18,
+                    "min": 21.41,
+                    "max": 23.21,
+                    "night": 21.77,
+                    "eve": 23,
+                    "morn": 21.41
+                },
+                "feels_like": {
+                    "day": 22.73,
+                    "night": 22.22,
+                    "eve": 23.47,
+                    "morn": 22.03
+                },
+                "pressure": 1016,
+                "humidity": 87,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 4.08,
+                "deg": 348,
+                "gust": 6.63,
+                "clouds": 100,
+                "pop": 0.9,
+                "rain": 4.3
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1580830,
+            "name": "H\u00f2a B\u00ecnh",
+            "coord": {
+                "lon": 105.3453,
+                "lat": 20.813
+            },
+            "country": "VN",
+            "population": 105260,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.7808205,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461923,
+                "sunset": 1682508042,
+                "temp": {
+                    "day": 22.29,
+                    "min": 19.83,
+                    "max": 26.03,
+                    "night": 21.71,
+                    "eve": 24.34,
+                    "morn": 20.02
+                },
+                "feels_like": {
+                    "day": 22.38,
+                    "night": 22.08,
+                    "eve": 24.58,
+                    "morn": 20.27
+                },
+                "pressure": 1016,
+                "humidity": 69,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 2.69,
+                "deg": 138,
+                "gust": 3.22,
+                "clouds": 100,
+                "pop": 0.2
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1580142,
+            "name": "H\u01b0ng Y\u00ean",
+            "coord": {
+                "lon": 106.051,
+                "lat": 20.6491
+            },
+            "country": "VN",
+            "population": 40273,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 6.0863174,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461764,
+                "sunset": 1682507861,
+                "temp": {
+                    "day": 21.18,
+                    "min": 18.83,
+                    "max": 24.75,
+                    "night": 20.47,
+                    "eve": 24.54,
+                    "morn": 19.17
+                },
+                "feels_like": {
+                    "day": 21.36,
+                    "night": 20.61,
+                    "eve": 24.77,
+                    "morn": 19.44
+                },
+                "pressure": 1016,
+                "humidity": 77,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.93,
+                "deg": 177,
+                "gust": 6.4,
+                "clouds": 100,
+                "pop": 0.29,
+                "rain": 0.12
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1581298,
+            "name": "Haiphong",
+            "coord": {
+                "lon": 106.6822,
+                "lat": 20.8561
+            },
+            "country": "VN",
+            "population": 602695,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 105.3630776,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461599,
+                "sunset": 1682507724,
+                "temp": {
+                    "day": 23.88,
+                    "min": 19.98,
+                    "max": 26.71,
+                    "night": 21.22,
+                    "eve": 24.41,
+                    "morn": 20.04
+                },
+                "feels_like": {
+                    "day": 24.1,
+                    "night": 21.3,
+                    "eve": 24.55,
+                    "morn": 20.27
+                },
+                "pressure": 1016,
+                "humidity": 68,
+                "weather": [
+                    {
+                        "id": 801,
+                        "main": "Clouds",
+                        "description": "few clouds",
+                        "icon": "02d"
+                    }
+                ],
+                "speed": 4.31,
+                "deg": 149,
+                "gust": 4.78,
+                "clouds": 20,
+                "pop": 0.08
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1585660,
+            "name": "Kh\u00e1nh H\u00f2a",
+            "coord": {
+                "lon": 105.1903,
+                "lat": 10.6765
+            },
+            "country": "VN",
+            "population": 70239,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 8.3443035,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462597,
+                "sunset": 1682507442,
+                "temp": {
+                    "day": 33.02,
+                    "min": 26.82,
+                    "max": 35.33,
+                    "night": 28.98,
+                    "eve": 34.38,
+                    "morn": 26.82
+                },
+                "feels_like": {
+                    "day": 35.77,
+                    "night": 31.31,
+                    "eve": 36.65,
+                    "morn": 29.18
+                },
+                "pressure": 1010,
+                "humidity": 48,
+                "weather": [
+                    {
+                        "id": 501,
+                        "main": "Rain",
+                        "description": "moderate rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.14,
+                "deg": 148,
+                "gust": 8.75,
+                "clouds": 100,
+                "pop": 0.78,
+                "rain": 5.39
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1578500,
+            "name": "Kon Tum",
+            "coord": {
+                "lon": 108,
+                "lat": 14.35
+            },
+            "country": "VN",
+            "population": 47409,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 8.7350827,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461700,
+                "sunset": 1682506990,
+                "temp": {
+                    "day": 30.71,
+                    "min": 18.88,
+                    "max": 32.8,
+                    "night": 20.52,
+                    "eve": 29.18,
+                    "morn": 18.88
+                },
+                "feels_like": {
+                    "day": 31.28,
+                    "night": 21.08,
+                    "eve": 30.43,
+                    "morn": 19.33
+                },
+                "pressure": 1012,
+                "humidity": 45,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 4.81,
+                "deg": 100,
+                "gust": 6.08,
+                "clouds": 100,
+                "pop": 0.32
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1576303,
+            "name": "L\u00e0o Cai",
+            "coord": {
+                "lon": 103.9657,
+                "lat": 22.4997
+            },
+            "country": "VN",
+            "population": 36502,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.9539254,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682485200,
+                "sunrise": 1682462139,
+                "sunset": 1682508487,
+                "temp": {
+                    "day": 27.73,
+                    "min": 20.69,
+                    "max": 31.34,
+                    "night": 21.78,
+                    "eve": 23.64,
+                    "morn": 21.91
+                },
+                "feels_like": {
+                    "day": 28.67,
+                    "night": 22.44,
+                    "eve": 24.33,
+                    "morn": 22.35
+                },
+                "pressure": 1015,
+                "humidity": 56,
+                "weather": [
+                    {
+                        "id": 501,
+                        "main": "Rain",
+                        "description": "moderate rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.25,
+                "deg": 111,
+                "gust": 3.21,
+                "clouds": 96,
+                "pop": 0.71,
+                "rain": 3.4
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1570815,
+            "name": "Lai Chau",
+            "coord": {
+                "lon": 103.4517,
+                "lat": 22.3997
+            },
+            "country": "VN",
+            "population": 1000,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 155.2615805,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682485200,
+                "sunrise": 1682462270,
+                "sunset": 1682508604,
+                "temp": {
+                    "day": 25.95,
+                    "min": 17.36,
+                    "max": 28.28,
+                    "night": 18.16,
+                    "eve": 19.96,
+                    "morn": 19.02
+                },
+                "feels_like": {
+                    "day": 25.95,
+                    "night": 18.56,
+                    "eve": 20.34,
+                    "morn": 19.14
+                },
+                "pressure": 1013,
+                "humidity": 55,
+                "weather": [
+                    {
+                        "id": 502,
+                        "main": "Rain",
+                        "description": "heavy intensity rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.13,
+                "deg": 155,
+                "gust": 4.3,
+                "clouds": 88,
+                "pop": 1,
+                "rain": 19.76
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1576633,
+            "name": "L\u1ea1ng S\u01a1n",
+            "coord": {
+                "lon": 106.7662,
+                "lat": 21.8505
+            },
+            "country": "VN",
+            "population": 55981,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 10.1608564,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461512,
+                "sunset": 1682507771,
+                "temp": {
+                    "day": 21.79,
+                    "min": 17.94,
+                    "max": 27.58,
+                    "night": 20.48,
+                    "eve": 26.66,
+                    "morn": 17.94
+                },
+                "feels_like": {
+                    "day": 21.62,
+                    "night": 20.78,
+                    "eve": 26.66,
+                    "morn": 17.88
+                },
+                "pressure": 1016,
+                "humidity": 61,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 2.4,
+                "deg": 217,
+                "gust": 5.05,
+                "clouds": 100,
+                "pop": 0
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1575788,
+            "name": "Long An",
+            "coord": {
+                "lon": 106.1667,
+                "lat": 10.6667
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 165.905333,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462363,
+                "sunset": 1682507207,
+                "temp": {
+                    "day": 34.01,
+                    "min": 26.94,
+                    "max": 34.9,
+                    "night": 28.12,
+                    "eve": 34.23,
+                    "morn": 26.94
+                },
+                "feels_like": {
+                    "day": 37.13,
+                    "night": 31.33,
+                    "eve": 36.38,
+                    "morn": 29.25
+                },
+                "pressure": 1010,
+                "humidity": 46,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.87,
+                "deg": 137,
+                "gust": 11.7,
+                "clouds": 75,
+                "pop": 0.39,
+                "rain": 1.82
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1573517,
+            "name": "Nam \u0110\u1ecbnh",
+            "coord": {
+                "lon": 106.1684,
+                "lat": 20.423
+            },
+            "country": "VN",
+            "population": 193499,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.5613365,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461751,
+                "sunset": 1682507818,
+                "temp": {
+                    "day": 21.52,
+                    "min": 18.86,
+                    "max": 25.1,
+                    "night": 21.12,
+                    "eve": 24.47,
+                    "morn": 19.21
+                },
+                "feels_like": {
+                    "day": 21.66,
+                    "night": 21.22,
+                    "eve": 24.7,
+                    "morn": 19.46
+                },
+                "pressure": 1016,
+                "humidity": 74,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 3.56,
+                "deg": 155,
+                "gust": 5.39,
+                "clouds": 100,
+                "pop": 0.33,
+                "rain": 0.12
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1571968,
+            "name": "Ninh B\u00ecnh",
+            "coord": {
+                "lon": 105.9765,
+                "lat": 20.2545
+            },
+            "country": "VN",
+            "population": 36864,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.6897787,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461809,
+                "sunset": 1682507853,
+                "temp": {
+                    "day": 20.96,
+                    "min": 18.64,
+                    "max": 25.21,
+                    "night": 21.07,
+                    "eve": 24.88,
+                    "morn": 18.93
+                },
+                "feels_like": {
+                    "day": 21.07,
+                    "night": 21.19,
+                    "eve": 25.09,
+                    "morn": 19.2
+                },
+                "pressure": 1016,
+                "humidity": 75,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 3.12,
+                "deg": 156,
+                "gust": 6.77,
+                "clouds": 100,
+                "pop": 0.48,
+                "rain": 0.83
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1571968,
+            "name": "Ninh B\u00ecnh",
+            "coord": {
+                "lon": 105.9765,
+                "lat": 20.2545
+            },
+            "country": "VN",
+            "population": 36864,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.6897787,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461809,
+                "sunset": 1682507853,
+                "temp": {
+                    "day": 20.96,
+                    "min": 18.64,
+                    "max": 25.21,
+                    "night": 21.07,
+                    "eve": 24.88,
+                    "morn": 18.93
+                },
+                "feels_like": {
+                    "day": 21.07,
+                    "night": 21.19,
+                    "eve": 25.09,
+                    "morn": 19.2
+                },
+                "pressure": 1016,
+                "humidity": 75,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 3.12,
+                "deg": 156,
+                "gust": 6.77,
+                "clouds": 100,
+                "pop": 0.48,
+                "rain": 0.83
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1571067,
+            "name": "Ph\u00fa Th\u1ecd",
+            "coord": {
+                "lon": 109.0281,
+                "lat": 11.5486
+            },
+            "country": "VN",
+            "population": 91520,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 128.1006513,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461624,
+                "sunset": 1682506573,
+                "temp": {
+                    "day": 33.22,
+                    "min": 24.72,
+                    "max": 33.33,
+                    "night": 25.78,
+                    "eve": 29.4,
+                    "morn": 24.72
+                },
+                "feels_like": {
+                    "day": 35.61,
+                    "night": 26.53,
+                    "eve": 32.63,
+                    "morn": 25.31
+                },
+                "pressure": 1010,
+                "humidity": 46,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 8.71,
+                "deg": 58,
+                "gust": 10.11,
+                "clouds": 95,
+                "pop": 0.09
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1568770,
+            "name": "Quang Ngai",
+            "coord": {
+                "lon": 108.8,
+                "lat": 15.1167
+            },
+            "country": "VN",
+            "population": 32992,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 0.0628764,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461461,
+                "sunset": 1682506846,
+                "temp": {
+                    "day": 29.9,
+                    "min": 23.75,
+                    "max": 30.07,
+                    "night": 23.75,
+                    "eve": 27.8,
+                    "morn": 24
+                },
+                "feels_like": {
+                    "day": 33.04,
+                    "night": 24.58,
+                    "eve": 30.41,
+                    "morn": 24.78
+                },
+                "pressure": 1013,
+                "humidity": 62,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 4.64,
+                "deg": 35,
+                "gust": 4.23,
+                "clouds": 100,
+                "pop": 0.68,
+                "rain": 1.59
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1568738,
+            "name": "Quang Tri",
+            "coord": {
+                "lon": 107.2,
+                "lat": 16.75
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.6405424,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461742,
+                "sunset": 1682507332,
+                "temp": {
+                    "day": 28.56,
+                    "min": 22.59,
+                    "max": 28.93,
+                    "night": 22.59,
+                    "eve": 26.09,
+                    "morn": 23.77
+                },
+                "feels_like": {
+                    "day": 31.63,
+                    "night": 23.36,
+                    "eve": 26.09,
+                    "morn": 24.6
+                },
+                "pressure": 1013,
+                "humidity": 69,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 4.97,
+                "deg": 27,
+                "gust": 6.73,
+                "clouds": 86,
+                "pop": 0.86,
+                "rain": 4.45
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1567788,
+            "name": "S\u00f3c Tr\u0103ng",
+            "coord": {
+                "lon": 105.9715,
+                "lat": 9.6081
+            },
+            "country": "VN",
+            "population": 114453,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.5641661,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462473,
+                "sunset": 1682507191,
+                "temp": {
+                    "day": 33.17,
+                    "min": 27.49,
+                    "max": 34.23,
+                    "night": 28.53,
+                    "eve": 31.85,
+                    "morn": 27.49
+                },
+                "feels_like": {
+                    "day": 36.06,
+                    "night": 32.05,
+                    "eve": 34.33,
+                    "morn": 30.27
+                },
+                "pressure": 1010,
+                "humidity": 48,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 7.26,
+                "deg": 103,
+                "gust": 9.01,
+                "clouds": 100,
+                "pop": 0.42
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1567681,
+            "name": "S\u01a1n La",
+            "coord": {
+                "lon": 103.9005,
+                "lat": 21.3283
+            },
+            "country": "VN",
+            "population": 19054,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 15.7700252,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682485200,
+                "sunrise": 1682462235,
+                "sunset": 1682508423,
+                "temp": {
+                    "day": 26.74,
+                    "min": 17.59,
+                    "max": 30.8,
+                    "night": 19.67,
+                    "eve": 22.35,
+                    "morn": 19.68
+                },
+                "feels_like": {
+                    "day": 27.34,
+                    "night": 20.17,
+                    "eve": 22.73,
+                    "morn": 19.92
+                },
+                "pressure": 1013,
+                "humidity": 53,
+                "weather": [
+                    {
+                        "id": 501,
+                        "main": "Rain",
+                        "description": "moderate rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.55,
+                "deg": 120,
+                "gust": 4.45,
+                "clouds": 82,
+                "pop": 0.95,
+                "rain": 4.73
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1788852,
+            "name": "Xining",
+            "coord": {
+                "lon": 101.7667,
+                "lat": 36.6167
+            },
+            "country": "CN",
+            "population": 767531,
+            "timezone": 28800
+        },
+        "cod": "200",
+        "message": 10.4678246,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682485200,
+                "sunrise": 1682461549,
+                "sunset": 1682510133,
+                "temp": {
+                    "day": 15.94,
+                    "min": 6.66,
+                    "max": 20.76,
+                    "night": 10.73,
+                    "eve": 15.16,
+                    "morn": 8.23
+                },
+                "feels_like": {
+                    "day": 13.93,
+                    "night": 8.69,
+                    "eve": 13.25,
+                    "morn": 8.23
+                },
+                "pressure": 1006,
+                "humidity": 13,
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "01d"
+                    }
+                ],
+                "speed": 11.07,
+                "deg": 118,
+                "gust": 13.93,
+                "clouds": 0,
+                "pop": 0
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1573517,
+            "name": "Th\u00e1i B\u00ecnh",
+            "coord": {
+                "lon": 106.3425,
+                "lat": 20.4493
+            },
+            "country": "VN",
+            "population": 193499,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 13.5922867,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461708,
+                "sunset": 1682507778,
+                "temp": {
+                    "day": 22.1,
+                    "min": 19.05,
+                    "max": 25.4,
+                    "night": 21.42,
+                    "eve": 24.07,
+                    "morn": 19.3
+                },
+                "feels_like": {
+                    "day": 22.22,
+                    "night": 21.5,
+                    "eve": 24.26,
+                    "morn": 19.53
+                },
+                "pressure": 1016,
+                "humidity": 71,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 4,
+                "deg": 148,
+                "gust": 5.9,
+                "clouds": 100,
+                "pop": 0.27
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1793511,
+            "name": "Taiyuan",
+            "coord": {
+                "lon": 112.5603,
+                "lat": 37.8694
+            },
+            "country": "CN",
+            "population": 2722475,
+            "timezone": 28800
+        },
+        "cod": "200",
+        "message": 8.1697711,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682458841,
+                "sunset": 1682507660,
+                "temp": {
+                    "day": 15.48,
+                    "min": 8.61,
+                    "max": 22,
+                    "night": 16.51,
+                    "eve": 21.1,
+                    "morn": 8.61
+                },
+                "feels_like": {
+                    "day": 14.08,
+                    "night": 15.52,
+                    "eve": 20.05,
+                    "morn": 8.61
+                },
+                "pressure": 1014,
+                "humidity": 38,
+                "weather": [
+                    {
+                        "id": 800,
+                        "main": "Clear",
+                        "description": "sky is clear",
+                        "icon": "01d"
+                    }
+                ],
+                "speed": 6.39,
+                "deg": 207,
+                "gust": 9.29,
+                "clouds": 0,
+                "pop": 0.04
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1566166,
+            "name": "Thanh Hoa",
+            "coord": {
+                "lon": 105.7667,
+                "lat": 19.8
+            },
+            "country": "VN",
+            "population": 112473,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 0.0766197,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461889,
+                "sunset": 1682507873,
+                "temp": {
+                    "day": 19.78,
+                    "min": 18.85,
+                    "max": 24.83,
+                    "night": 21.01,
+                    "eve": 24.1,
+                    "morn": 19.15
+                },
+                "feels_like": {
+                    "day": 19.98,
+                    "night": 21.26,
+                    "eve": 24.29,
+                    "morn": 19.34
+                },
+                "pressure": 1016,
+                "humidity": 83,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.64,
+                "deg": 359,
+                "gust": 6.23,
+                "clouds": 100,
+                "pop": 0.74,
+                "rain": 1.11
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": "",
+            "name": "",
+            "coord": {
+                "lon": "",
+                "lat": ""
+            },
+            "country": "",
+            "population": "",
+            "timezone": ""
+        },
+        "cod": "",
+        "message": "",
+        "cnt": "",
+        "list": [
+            {
+                "dt": "",
+                "sunrise": "",
+                "sunset": "",
+                "temp": {
+                    "day": "",
+                    "min": "",
+                    "max": 0,
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "feels_like": {
+                    "day": "",
+                    "night": "",
+                    "eve": "",
+                    "morn": ""
+                },
+                "pressure": "",
+                "humidity": "",
+                "weather": [
+                    {
+                        "id": "",
+                        "main": "",
+                        "description": "",
+                        "icon": ""
+                    }
+                ],
+                "speed": "",
+                "deg": "",
+                "gust": "",
+                "clouds": "",
+                "pop": ""
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1563926,
+            "name": "Tr\u00e0 Vinh",
+            "coord": {
+                "lon": 106.3398,
+                "lat": 9.9356
+            },
+            "country": "VN",
+            "population": 57408,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.7122726,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462365,
+                "sunset": 1682507122,
+                "temp": {
+                    "day": 32.95,
+                    "min": 27.16,
+                    "max": 34.3,
+                    "night": 28.09,
+                    "eve": 31.56,
+                    "morn": 27.16
+                },
+                "feels_like": {
+                    "day": 35.63,
+                    "night": 31.41,
+                    "eve": 33.8,
+                    "morn": 29.7
+                },
+                "pressure": 1010,
+                "humidity": 48,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 6.59,
+                "deg": 93,
+                "gust": 9.39,
+                "clouds": 100,
+                "pop": 0.31
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1563287,
+            "name": "Tuyen Quang",
+            "coord": {
+                "lon": 105.2181,
+                "lat": 21.8233
+            },
+            "country": "VN",
+            "population": 36430,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 8.8640914,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461885,
+                "sunset": 1682508140,
+                "temp": {
+                    "day": 23.3,
+                    "min": 19.63,
+                    "max": 28.61,
+                    "night": 21.59,
+                    "eve": 27.31,
+                    "morn": 19.63
+                },
+                "feels_like": {
+                    "day": 23.44,
+                    "night": 21.79,
+                    "eve": 28.01,
+                    "morn": 19.97
+                },
+                "pressure": 1016,
+                "humidity": 67,
+                "weather": [
+                    {
+                        "id": 804,
+                        "main": "Clouds",
+                        "description": "overcast clouds",
+                        "icon": "04d"
+                    }
+                ],
+                "speed": 2.58,
+                "deg": 142,
+                "gust": 3.56,
+                "clouds": 100,
+                "pop": 0.05
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1562693,
+            "name": "V\u0129nh Long",
+            "coord": {
+                "lon": 105.967,
+                "lat": 10.2544
+            },
+            "country": "VN",
+            "population": 103314,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 4.1611797,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682462436,
+                "sunset": 1682507231,
+                "temp": {
+                    "day": 32.58,
+                    "min": 25.22,
+                    "max": 34.61,
+                    "night": 27.57,
+                    "eve": 33.31,
+                    "morn": 25.48
+                },
+                "feels_like": {
+                    "day": 34.45,
+                    "night": 30.43,
+                    "eve": 35.51,
+                    "morn": 26.36
+                },
+                "pressure": 1010,
+                "humidity": 46,
+                "weather": [
+                    {
+                        "id": 501,
+                        "main": "Rain",
+                        "description": "moderate rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 5.33,
+                "deg": 122,
+                "gust": 10.49,
+                "clouds": 100,
+                "pop": 0.53,
+                "rain": 4.05
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1580700,
+            "name": "V\u0129nh Ph\u00fac",
+            "coord": {
+                "lon": 105.6954,
+                "lat": 18.4169
+            },
+            "country": "VN",
+            "population": 0,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 3.6025184,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461996,
+                "sunset": 1682507800,
+                "temp": {
+                    "day": 22.06,
+                    "min": 20.57,
+                    "max": 23.71,
+                    "night": 21.27,
+                    "eve": 23.39,
+                    "morn": 20.57
+                },
+                "feels_like": {
+                    "day": 22.54,
+                    "night": 21.78,
+                    "eve": 23.85,
+                    "morn": 21.11
+                },
+                "pressure": 1016,
+                "humidity": 85,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.63,
+                "deg": 359,
+                "gust": 5.25,
+                "clouds": 100,
+                "pop": 0.91,
+                "rain": 1.27
+            }
+        ]
+    },
+    {
+        "city": {
+            "id": 1560349,
+            "name": "Y\u00ean B\u00e1i",
+            "coord": {
+                "lon": 104.8714,
+                "lat": 21.7026
+            },
+            "country": "VN",
+            "population": 96540,
+            "timezone": 25200
+        },
+        "cod": "200",
+        "message": 5.0949746,
+        "cnt": 1,
+        "list": [
+            {
+                "dt": 1682481600,
+                "sunrise": 1682461977,
+                "sunset": 1682508215,
+                "temp": {
+                    "day": 24.34,
+                    "min": 19.78,
+                    "max": 28.03,
+                    "night": 21.29,
+                    "eve": 26.66,
+                    "morn": 19.88
+                },
+                "feels_like": {
+                    "day": 24.45,
+                    "night": 21.62,
+                    "eve": 26.66,
+                    "morn": 20.25
+                },
+                "pressure": 1016,
+                "humidity": 62,
+                "weather": [
+                    {
+                        "id": 500,
+                        "main": "Rain",
+                        "description": "light rain",
+                        "icon": "10d"
+                    }
+                ],
+                "speed": 2.63,
+                "deg": 116,
+                "gust": 4.96,
+                "clouds": 92,
+                "pop": 0.25,
+                "rain": 0.13
+            }
+        ]
+    }
+]
